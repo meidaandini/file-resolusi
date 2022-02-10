@@ -2,5 +2,5 @@ file1 resolusi
 -mendaftar akun github
 -mencoba membuat repository
 -mengirimkan tugas yang sudah dibuat ke github
--menulis
 -membaca
+-mengirim
